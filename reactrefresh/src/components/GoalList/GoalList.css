@@ -1,0 +1,9 @@
+ .goal-list li {
+    border: 1px solid #420d0d;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+.delete-goal{
+    float: right;
+}
